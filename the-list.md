@@ -19,3 +19,24 @@
 0
 
 ---
+# This is the list
+
+**Name**: Natasha Chambers
+
+**Please call me**: Tasha or Natasha
+
+**I already knew about**: 
+- Continuous Integration 
+- Manual Testing 
+
+**I think I understand**:
+- Unit Testing
+
+**I think I didn't get enough information about**:
+- Stress testing
+- Penetration testing
+
+**My number is**:
+15
+
+---
