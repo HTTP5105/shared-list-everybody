@@ -49,6 +49,27 @@
 
 ---
 
+
+**Name**: Tingwei Xie
+
+**Please call me**: Tingwei
+
+**I already knew about**: 
+- Requirements
+- Stress testing
+
+**I think I understand**:
+- Linters
+- end-to-end testing
+- Load testing
+
+**I think I didn't get enough information about**:
+- DevOps
+- Unit testing
+
+**My number is**:
+22
+
 # This is the list
 
 **Name**: Mohammad Baqir
@@ -92,3 +113,4 @@
 
 **My number is**:
 4
+
