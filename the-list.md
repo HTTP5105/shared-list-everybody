@@ -201,4 +201,21 @@
 19
 
 ---
+**Name**: Natalia Kolesnikova
 
+**Please call me**: Natalia
+
+**I already knew about**: 
+None
+
+**I think I understand**:
+Requirements
+
+**I think I didn't get enough information about**:
+- Penetration testing
+- Stress testing
+- Actually implementing these things into my current projects
+
+
+**My number is**: 
+11
