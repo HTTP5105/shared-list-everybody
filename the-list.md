@@ -159,6 +159,24 @@
 
 ---
 
+
+Name: Yifat Tshuva
+
+Please call me: Yifat
+
+I already knew about:
+Unit Testing
+User requirements
+
+I think I understand:
+Deployment 
+End to end testing
+
+I think I didn't get enough information about:
+DevOps
+
+My number is: 21
+---
 **Name**: Estevan Cordero
 
 **Please call me**: Estevan
@@ -234,4 +252,5 @@
 
 **My number is**:
 8
+
 
