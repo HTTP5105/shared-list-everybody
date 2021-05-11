@@ -298,3 +298,26 @@ My number is: 21
 8
 
 
+
+# This is the list
+
+**Name**:Manal Solanki
+
+**Please call me**:Manal
+
+**I already knew about**: 
+- Requirements
+- Testing properties
+- Unit testing
+
+**I think I understand**:
+- Linters
+
+**I think I didn't get enough information about**:
+- DevOps
+
+
+**My number is**:
+7
+
+---
