@@ -135,3 +135,22 @@
 
 **My number is**:
 20
+**Name**: Alby Baby
+
+**Please call me**: Alby
+
+**I already knew about**: 
+- why we test
+- validators
+
+**I think I understand**:
+- Ad hoc testing
+- Input testing
+
+**I think I didn't get enough information about**:
+- DevOps
+- stress testing
+
+
+**My number is**:
+4
