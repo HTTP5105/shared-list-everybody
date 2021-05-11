@@ -299,6 +299,24 @@ My number is: 21
 
 
 
+Name: Uditesh Jha
+
+Please call me: Uditesh
+
+I already knew about:
+
+Unit testing
+Manual testing
+I think I understand:
+
+Deployment lifecycle
+I think I didn't get enough information about:
+
+Penetration testing
+My number is: 13
+
+
+
 # This is the list
 
 **Name**:Manal Solanki
@@ -321,3 +339,4 @@ My number is: 21
 7
 
 ---
+
