@@ -237,6 +237,9 @@ My number is: 21
 19
 
 ---
+
+
+
 # This is the list
 
 **Name**: Alby Baby
@@ -359,4 +362,20 @@ My number is: 13
 **My number is**:
 6
 ---
+**Name**: Natalia Kolesnikova
 
+**Please call me**: Natalia
+
+**I already knew about**: 
+None
+
+**I think I understand**:
+Requirements
+
+**I think I didn't get enough information about**:
+- Penetration testing
+- Stress testing
+- Actually implementing these things into my current projects
+
+**My number is**: 
+11
