@@ -116,6 +116,24 @@
 ---
 # This is the list
 
+**Name**: Ruth Frogoso
+
+**Please call me**: Ruth
+
+**I already knew about**: 
+- Requirements
+
+**I think I understand**:
+- Ad hoc testing
+- Unit testing
+
+**I think I didn't get enough information about**:
+- Penetration testing
+- Stress testing
+
+**My number is**:
+3
+
 **Name**: Natasha Chambers
 
 **Please call me**: Tasha or Natasha
@@ -280,6 +298,7 @@ My number is: 21
 8
 
 
+
 Name: Uditesh Jha
 
 Please call me: Uditesh
@@ -295,4 +314,29 @@ I think I didn't get enough information about:
 
 Penetration testing
 My number is: 13
+
+
+
+# This is the list
+
+**Name**:Manal Solanki
+
+**Please call me**:Manal
+
+**I already knew about**: 
+- Requirements
+- Testing properties
+- Unit testing
+
+**I think I understand**:
+- Linters
+
+**I think I didn't get enough information about**:
+- DevOps
+
+
+**My number is**:
+7
+
+---
 
