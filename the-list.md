@@ -202,3 +202,36 @@
 
 ---
 
+# This is the list
+
+**Name**: Navaneeth Ashok
+
+**Please call me**: Navaneeth
+
+**I already knew about**: 
+- Requirements
+- Security
+- Manual testing
+- Panetration testing
+- Code Review
+- Ad Hoc testing
+- The concept of quality
+- Deployment cycle
+
+**I think I understand**:
+- Linters
+- Why do we test
+- Unit Testing
+- E2E Testing
+- The concept of assurance
+- Laod testing
+- Stress testing
+
+**I think I didn't get enough information about**:
+- Standards
+- Post deployment
+
+
+**My number is**:
+8
+
