@@ -158,3 +158,22 @@
 **My number is**:
 20
 
+---
+**Name**: Nguyen Thai Vo
+
+**Please call me**: Thai
+
+**I already knew about**: 
+
+- Unit testing
+- Ad hoc testing
+**I think I understand**:
+- Linters
+- Requirements
+- Testing properties
+**I think I didn't get enough information about**:
+- Devops
+- Continuous integration
+
+**My number is**:
+9
