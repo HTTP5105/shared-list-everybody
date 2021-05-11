@@ -158,3 +158,26 @@
 **My number is**:
 20
 
+# This is the list
+
+**Name**: Navaneeth Ashok
+
+**Please call me**: Navaneeth
+
+**I already knew about**: 
+- Requirements
+- Testing properties
+- Unit testing
+
+**I think I understand**:
+- Linters
+
+**I think I didn't get enough information about**:
+- DevOps
+
+
+**My number is**:
+19
+
+---
+
