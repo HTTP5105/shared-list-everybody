@@ -159,6 +159,24 @@
 
 ---
 
+
+Name: Yifat Tshuva
+
+Please call me: Yifat
+
+I already knew about:
+Unit Testing
+User requirements
+
+I think I understand:
+Deployment 
+End to end testing
+
+I think I didn't get enough information about:
+DevOps
+
+My number is: 21
+---
 **Name**: Estevan Cordero
 
 **Please call me**: Estevan
@@ -201,6 +219,32 @@
 19
 
 ---
+# This is the list
+
+**Name**: Alby Baby
+
+**Please call me**: Alby
+
+**I already knew about**: 
+- Requirements
+- Validators
+
+
+**I think I understand**:
+- Input testing
+- Adhoc testing
+
+**I think I didn't get enough information about**:
+- DevOps
+- stress testing
+
+
+**My number is**:
+12
+
+---
+
+
 
 # This is the list
 
@@ -235,6 +279,7 @@
 **My number is**:
 8
 
+
 Name: Uditesh Jha
 
 Please call me: Uditesh
@@ -250,3 +295,4 @@ I think I didn't get enough information about:
 
 Penetration testing
 My number is: 13
+
