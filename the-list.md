@@ -204,9 +204,9 @@
 
 # This is the list
 
-**Name**: Navaneeth Ashok
+**Name**: Ambaram
 
-**Please call me**: Navaneeth
+**Please call me**: Ambaram
 
 **I already knew about**: 
 - Requirements
