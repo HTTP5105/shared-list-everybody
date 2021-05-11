@@ -71,3 +71,21 @@
 1
 
 ---
+**Name**: Tran Dieu Suong
+
+**Please call me**: Suong
+
+**I already knew about**: 
+- Requirements
+
+**I think I understand**:
+- Unit testing
+
+**I think I didn't get enough information about**:
+- Ad hoc testing
+- Penetration testing
+- Stress testing
+
+**My number is**:
+20
+---
