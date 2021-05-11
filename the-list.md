@@ -19,3 +19,22 @@
 0
 
 ---
+# This is the list
+
+**Name**: Manal Solanki
+
+**Please call me**: Manal
+
+**I already knew about**: 
+- Requirements
+- Testing properties
+
+**I think I understand**:
+- Linters
+
+**I think I didn't get enough information about**:
+- DevOps
+- Unit testing
+
+**My number is**:
+7
