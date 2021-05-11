@@ -71,3 +71,23 @@
 1
 
 ---
+# This is the list
+
+**Name**: Ruth Frogoso
+
+**Please call me**: Ruth
+
+**I already knew about**: 
+- Requirements
+- The need for security/SSL
+
+**I think I understand**:
+- Ad hoc testing
+- Unit testing
+
+**I think I didn't get enough information about**:
+- Penetration testing
+- Stress testing
+
+**My number is**:
+3
