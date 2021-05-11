@@ -1,21 +1,21 @@
 # This is the list
 
-**Name**: Vedanshi Patel
+**Name**: Alby Baby
 
-**Please call me**: Vedanshi
+**Please call me**: Alby
 
 **I already knew about**: 
-- Requirements
+- why we test
 
 **I think I understand**:
-- Ad hoc testing
-- Unit testing
+- validators
+- input testing
 
 **I think I didn't get enough information about**:
-- Penetration testing
+- Manual testing
 - Stress testing
 
 **My number is**:
-5
+21
 
 ---
