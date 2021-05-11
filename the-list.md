@@ -216,6 +216,5 @@ Requirements
 - Stress testing
 - Actually implementing these things into my current projects
 
-
 **My number is**: 
 11
