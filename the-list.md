@@ -41,3 +41,24 @@
 5
 
 ---
+
+# This is the list
+
+**Name**: Justin Abante
+
+**Please call me**: Justin
+
+**I already knew about**:
+- Requirements
+
+**I think I understand**:
+- Ad hoc testing
+- Linters
+
+**I think I didn't get enough information about**:
+- Unit testing
+
+**My number is **:
+10
+
+---
