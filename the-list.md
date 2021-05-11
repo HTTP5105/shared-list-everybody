@@ -219,6 +219,32 @@ My number is: 21
 19
 
 ---
+# This is the list
+
+**Name**: Alby Baby
+
+**Please call me**: Alby
+
+**I already knew about**: 
+- Requirements
+- Validators
+
+
+**I think I understand**:
+- Input testing
+- Adhoc testing
+
+**I think I didn't get enough information about**:
+- DevOps
+- stress testing
+
+
+**My number is**:
+12
+
+---
+
+
 
 # This is the list
 
