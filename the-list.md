@@ -202,6 +202,7 @@
 
 ---
 
+
 Name: Uditesh Jha
 
 Please call me: Uditesh
@@ -217,3 +218,38 @@ I think I didn't get enough information about:
 
 Penetration testing
 My number is: 13
+
+# This is the list
+
+**Name**: Ambaram
+
+**Please call me**: Ambaram
+
+**I already knew about**: 
+- Requirements
+- Security
+- Manual testing
+- Panetration testing
+- Code Review
+- Ad Hoc testing
+- The concept of quality
+- Deployment cycle
+
+**I think I understand**:
+- Linters
+- Why do we test
+- Unit Testing
+- E2E Testing
+- The concept of assurance
+- Laod testing
+- Stress testing
+
+**I think I didn't get enough information about**:
+- Standards
+- Post deployment
+
+
+**My number is**:
+8
+
+
