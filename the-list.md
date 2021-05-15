@@ -287,3 +287,24 @@ Requirements
 
 **My number is**: 
 11
+
+
+
+**Name**: Smitalben Christian
+
+**Please call me**: Smital
+
+**I already knew about**: 
+- Manual testing
+
+**I think I understand**:
+- Unit testing
+- Boundary Testing
+
+**I think I didn't get enough information about**:
+- Penetration testing
+- Stress testing
+- Linters
+
+**My number is**:
+17
