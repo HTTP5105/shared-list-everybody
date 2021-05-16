@@ -287,3 +287,24 @@ Requirements
 
 **My number is**: 
 11
+
+---
+
+# This is the list
+
+**Name**: Majdi Nawfal
+
+**Please call me**: Majdi
+
+**I already knew about**: 
+- DevOps
+
+**I think I understand**:
+- Requirements
+
+**I think I didn't get enough information about**:
+- Ad hoc testing
+- Unit Testing
+
+**My number is**:
+16
