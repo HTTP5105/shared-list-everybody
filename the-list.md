@@ -330,3 +330,25 @@ Requirements
 **My number is**:
 16
 
+
+**Name:** Haroon Shaffiulla
+
+**Please call me: ** Haroon
+
+**I already knew about:**
+Ad-hoc testing
+Validators
+Testing properties
+
+**I think I understand:**
+Linters
+Unit testing
+Load testing
+Stress testing
+
+**I think I didn't get enough information about:**
+Penetration testing
+DDoS attacks
+Implementation of these tests
+
+**My number is:** 2
